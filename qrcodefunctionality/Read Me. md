@@ -1,0 +1,4 @@
+For the pubspec.yaml dependencies, I have used barcode_scan2: ^4.2.4 for scanning and 
+  qr_flutter: ^4.0.0 for generating Qr Code.
+  
+  We still need to develop these functionalities in javascript since it is the mainly supported language by the OPAL network.
